@@ -1,0 +1,8 @@
+C:\Users\Jan Kowalski\Desktop\projekty\zabawa_klasami\zabawa_klasami\bin\Debug\zabawa_klasami.exe
+C:\Users\Jan Kowalski\Desktop\projekty\zabawa_klasami\zabawa_klasami\bin\Debug\zabawa_klasami.pdb
+C:\Users\Jan Kowalski\Desktop\projekty\zabawa_klasami\zabawa_klasami\obj\x86\Debug\zabawa_klasami.Properties.Resources.resources
+C:\Users\Jan Kowalski\Desktop\projekty\zabawa_klasami\zabawa_klasami\obj\x86\Debug\zabawa_klasami.csproj.GenerateResource.Cache
+C:\Users\Jan Kowalski\Desktop\projekty\zabawa_klasami\zabawa_klasami\obj\x86\Debug\zabawa_klasami.exe
+C:\Users\Jan Kowalski\Desktop\projekty\zabawa_klasami\zabawa_klasami\obj\x86\Debug\zabawa_klasami.pdb
+C:\Users\Jan Kowalski\Desktop\projekty\zabawa_klasami\zabawa_klasami\obj\x86\Debug\zabawa_klasami.Form1.resources
+C:\Users\Jan Kowalski\Desktop\projekty\zabawa_klasami\zabawa_klasami\obj\x86\Debug\zabawa_klasami.csprojResolveAssemblyReference.cache
