@@ -13,19 +13,29 @@ namespace zabawa_klasami
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();            
+        }
 
-            //toyota moja = new toyota();
-            //samochod auris = new samochod("Auris", 4, 1364);
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
             samochod volkswagen = new samochod("Golf", 7, 1598);
-            //lbl_1.Text = auris.nazwa;
-            //lbl_2.Text = auris.wiek.ToString();
-            //lbl_3.Text = auris.poj_silnika.ToString();
-
             lbl_1.Text = volkswagen.nazwa;
             lbl_2.Text = volkswagen.wiek.ToString();
             lbl_3.Text = volkswagen.poj_silnika.ToString();
-        }        
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            samochod auris = new samochod("Auris", 4, 1364);
+            lbl_1.Text = auris.nazwa;
+            lbl_2.Text = auris.wiek.ToString();
+            lbl_3.Text = auris.poj_silnika.ToString();
+        }
     }
 
     class samochod
