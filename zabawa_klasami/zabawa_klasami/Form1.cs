@@ -16,14 +16,19 @@ namespace zabawa_klasami
             InitializeComponent();
 
             //toyota moja = new toyota();
-            toyota moja = new toyota("Auris", 4, 1364);
-            lbl_1.Text = moja.nazwa;
-            lbl_2.Text = moja.wiek.ToString();
-            lbl_3.Text = moja.poj_silnika.ToString();
+            //samochod auris = new samochod("Auris", 4, 1364);
+            samochod volkswagen = new samochod("Golf", 7, 1598);
+            //lbl_1.Text = auris.nazwa;
+            //lbl_2.Text = auris.wiek.ToString();
+            //lbl_3.Text = auris.poj_silnika.ToString();
+
+            lbl_1.Text = volkswagen.nazwa;
+            lbl_2.Text = volkswagen.wiek.ToString();
+            lbl_3.Text = volkswagen.poj_silnika.ToString();
         }        
     }
 
-    class toyota
+    class samochod
     {
         //public toyota()
         //{
@@ -32,7 +37,7 @@ namespace zabawa_klasami
         //    this.poj_silnika = 0;
         //}
 
-        public toyota(string nazwa, int wiek, int poj_silnika)
+        public samochod(string nazwa, int wiek, int poj_silnika)
         {
             this.nazwa = nazwa;
             this.wiek = wiek;
