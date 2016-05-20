@@ -1,0 +1,8 @@
+D:\gbgit\zabawa_klasami\zabawa_klasami\bin\Release\zabawa_klasami.exe
+D:\gbgit\zabawa_klasami\zabawa_klasami\bin\Release\zabawa_klasami.pdb
+D:\gbgit\zabawa_klasami\zabawa_klasami\obj\x86\Release\zabawa_klasami.csprojResolveAssemblyReference.cache
+D:\gbgit\zabawa_klasami\zabawa_klasami\obj\x86\Release\zabawa_klasami.Form1.resources
+D:\gbgit\zabawa_klasami\zabawa_klasami\obj\x86\Release\zabawa_klasami.Properties.Resources.resources
+D:\gbgit\zabawa_klasami\zabawa_klasami\obj\x86\Release\zabawa_klasami.csproj.GenerateResource.Cache
+D:\gbgit\zabawa_klasami\zabawa_klasami\obj\x86\Release\zabawa_klasami.exe
+D:\gbgit\zabawa_klasami\zabawa_klasami\obj\x86\Release\zabawa_klasami.pdb
